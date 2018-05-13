@@ -1,0 +1,19 @@
+{
+  "name": "pacel-bug-report",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "David Wood <david.p.wood@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "1.8.1"
+  },
+  "dependencies": {
+    "mithril": "^1.1.6"
+  }
+}
